@@ -86,4 +86,4 @@ Você pode usá-lo, modificá-lo e compartilhá-lo livremente com atribuição.
 
 ---
 
-<p align="center"><i>Feito com 💚 por estudantes do IFF Itaperuna</i></p>
+<p align="center"><i>Feito por estudantes do IFF Itaperuna</i></p>
